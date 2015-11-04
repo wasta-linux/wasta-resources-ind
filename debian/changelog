@@ -1,0 +1,17 @@
+wasta-resources-ind (1.0.0) trusty; urgency=medium
+
+  * initial github commit
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 04 Nov 2015 12:08:30 +0300
+
+wasta-resources-ind (0.1.1) precise; urgency=low
+
+  * Added WinScript (PhonScript) keyboard layout maps (as PDFs). Testing
+
+ -- Mark Penny <jampakpenny@gmail.com>  Thu, 24 Apr 2014 10:47:19 +0530
+
+wasta-resources-ind (0.1.0) precise; urgency=low
+
+  * initial release
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 18 Apr 2014 14:21:29 -0500
